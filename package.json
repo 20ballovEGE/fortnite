@@ -1,9 +1,9 @@
 {
-  "name": "shop-app",
+  "name": "fortnite",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/lx87/shop-app",
+  "homepage": "https://github.com/20ballovEGE/fortnite",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
